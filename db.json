@@ -2,14 +2,31 @@
   "accounts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "eludire damilola",
+      "cif": "R5002231"
     },
     {
       "id": 2,
-      "title": "How are you"
+      "name": "ademola adebise",
+      "cif": "R9809001"
+    },
+    {
+      "id": 3,
+      "name": "donald trump",
+      "cif": "R2047461"
+    },
+    {
+      "id": 4,
+      "name": "Justin Tradeau",
+      "cif": "R6627849"
+    },
+    {
+      "id": 5,
+      "name": "angela merkel",
+      "cif": "R9540390"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "damilola eludire"
   }
 }
