@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "accounts": [
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "How are you"
     }
   ],
   "profile": {
